@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+Attendance/*.csv
+
+data/face_data.pkl
+data/names.pkl
+
+.venv/
+venv/
+
+.idea/
+.vscode/
